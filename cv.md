@@ -8,10 +8,11 @@ I would like complete this course, i think, that my qualities as like determinat
 <h1>4. My Skills:</h1>
 I don't have any special skills in programming, so i know a lot about SCRUM, so honestly on course i will upgrade my skills.
 <h1>5. Example of my code:</h1>
-```
-<script>
-    alert( 'Привет, мир!' );
-</script>
+```python
+if x > 0:
+	print (x)
+else:
+	print ('Hello, World!')
 ```
 <h1>6. My Projects:</h1>
 I don't have any projects, so this CV is my first project.
