@@ -1,13 +1,14 @@
 <h1>1. Full Name:</h1>
 Maxim Babich
 <h1>2. Contacts:</h1>
-E-mail: mmbabich.offers@gmail.com Discord: Maxim Babich(@MMBabich)
+E-mail: mmbabich.offers@gmail.com  
+Discord: Maxim Babich(@MMBabich)
 <h1>3. About me:</h1>
 I would like complete this course, i think, that my qualities as like determination, curiosity will help me do it.
 <h1>4. My Skills:</h1>
 I don't have any special skills in programming, so i know a lot about SCRUM, so honestly on course i will upgrade my skills.
 <h1>5. Example of my code:</h1>
-```javascript
+```
 <script>
     alert( 'Привет, мир!' );
 </script>
