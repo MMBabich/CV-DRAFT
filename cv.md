@@ -1,7 +1,7 @@
 <h1>1. Full Name:</h1>
 Maxim Babich
 <img
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FAyanokoji-Kiyotaka-Classroom-Posters-16x24Unframe%2Fdp%2FB0CM6ND1LS&psig=AOvVaw2_kWamB-tDzp2dnw_Kmybx&ust=1718915513924000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICh2LjB6IYDFQAAAAAdAAAAABAE"
+  src="https://sun9-31.userapi.com/impg/PGnldzAsuo-vWhq2oAY-syjondEVmLBgcMPJnQ/rn_zuzNXGII.jpg?size=576x768&quality=95&sign=f54bb4ddb8086060cf64f52bf8f1657c&type=album"
   alt="My avatar" /></img>
 <h1>2. Contacts:</h1>
 E-mail: mmbabich.offers@gmail.com<br>
