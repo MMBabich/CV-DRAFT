@@ -16,6 +16,7 @@ else:
 </code></pre>
 <h1>6. My Projects:</h1>
 I don't have any projects, so this CV is my first project.
+<link>https://github.com/MMBabich/rsschool-cv/blob/gh-pages/cv.md</link>
 <h1>7. Education and courses:</h1>
 I graduated from Peter the Great St. Petersburg Polytechnic University (SPbPU), also i completed some courses on Stepik, https://pythontutor.ru, https://letpy.com
 <h1>8. English:</h1>
