@@ -1,7 +1,7 @@
 <h1>1. Full Name:</h1>
 Maxim Babich
 <h1>2. Contacts:</h1>
-E-mail: mmbabich.offers@gmail.com  
+E-mail: mmbabich.offers@gmail.com<br>
 Discord: Maxim Babich(@MMBabich)
 <h1>3. About me:</h1>
 I would like complete this course, i think, that my qualities as like determination, curiosity will help me do it.
