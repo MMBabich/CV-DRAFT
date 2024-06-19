@@ -1,11 +1,11 @@
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+Maxim Babich
+E-mail: mmbabich.offers@gmail.com Discord: Mibmax
+I would like complete this course, i think, that my qualities as like determination, curiosity will help me do it.
+I don't have goy any special skills in programming, so i know a lot about SCRUM, so honestly on course i will upgrade my skills.
 Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+I don't have any projects, so this CV is my first project.
+Образование (включая пройденные курсы и тренинги) I completed some courses on stepick, https://pythontutor.ru, https://letpy.com
+My English is B2 level, but last time i thought that it rather B1, because i didn't have so much practice last time
 
 
 Рекомендации к составлению CV:
